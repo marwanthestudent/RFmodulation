@@ -110,4 +110,4 @@ This repository is for educational and documentation purposes only. No code is s
 ## 🙏 Acknowledgements
 
 - **Dr. Jason Losh** - Being a great mentor throughout this project.
-- **UTA EE Makerspace** - For printing many of my failed antennas for cheap.
+- **UTA EE Makerspace** - For printing many of my failed antennae for cheap.
